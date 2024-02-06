@@ -10,6 +10,15 @@ function Home() {
       <Welcome name="Sara" />
       <Welcome name="Cahal" />
       <Welcome name="Edite" />
+      <Welcome name="Sara" />
+      <Welcome name="Cahal" />
+      <Welcome name="Edite" />
+      <Welcome name="Sara" />
+      <Welcome name="Cahal" />
+      <Welcome name="Edite" />
+      <Welcome name="Sara" />
+      <Welcome name="Cahal" />
+      <Welcome name="Edite" />
     </div>
   );
 }
